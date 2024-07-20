@@ -1,4 +1,5 @@
 # Vagabond-web-app
+The project is only half completed, as I'll be updating it and rebuilding it from scratch, so what you're looking for at the moment, can be considered as beta version.
 ## Pet project | full stack web-application | marketplace for real-estate
 To host and run the project you need to follow below steps:
 1. Download the project to your PC
