@@ -1,0 +1,14 @@
+{
+  "name": "real-estate",
+  "private": "true",
+  "scripts": {
+    "start": "concurrently \"wsrun --parallel start\""
+  },
+  "workspaces": [
+    "app/*"
+  ],
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "wsrun": "^5.2.4"
+  }
+}
