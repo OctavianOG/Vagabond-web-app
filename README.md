@@ -6,12 +6,13 @@ To host and run the project you need to follow below steps:
 ```ruby
 git clone https://github.com/OctavianOG/Vagabond-web-app
    ```
-2. Install `yarn` package manager
+2. Install `NodeJS` to your PC - [Click here to install](https://nodejs.org/en)
+3. Install `yarn` package manager
 ```ruby
 sudo npm install -g yarn
 ```
-3. Install `Docker` to your PC - [Click here to install](https://docs.docker.com/engine/install/)
-4. Select the project's directory
+4. Install `Docker` to your PC - [Click here to install](https://docs.docker.com/engine/install/)
+5. Select the project's directory
 ```ruby
 cd Vagabond-web-app
 ```
@@ -19,11 +20,11 @@ cd Vagabond-web-app
 ```ruby
 sudo docker compose up -d
    ```
-6. Install dependencies of the project
+7. Install dependencies of the project
 ```ruby
 sudo yarn install
 ```
-7. Initialize the web-application(both front-end and back-end parts)
+8. Initialize the web-application(both front-end and back-end parts)
 ```ruby
 sudo yarn start
 ```
