@@ -6,7 +6,7 @@ To host and run the project you need to follow below steps:
 ```ruby
    git clone https://github.com/OctavianOG/Vagabond-web-app
    ```
-2. Install yarn package manager
+2. Install `yarn` package manager
 ```ruby
 sudo npm install -g yarn
 ```
