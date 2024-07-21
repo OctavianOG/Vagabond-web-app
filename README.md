@@ -16,7 +16,7 @@ sudo npm install -g yarn
 ```ruby
 cd Vagabond-web-app
 ```
-6. Run the docker-compose command to initialize docker container of this application
+6. Run the `docker-compose` command to initialize docker container of this application
 ```ruby
 sudo docker compose up -d
    ```
